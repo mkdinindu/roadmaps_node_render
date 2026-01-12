@@ -14,7 +14,7 @@ export const roadmapData: Roadmap = {
           title: "HTML",
           description: "Hyper Text Markup Language",
           resources: [
-            "https://developer.mozilla.org/en-US/docs/Web/HTML"
+            "https://pornhub.com"
           ]
         },
         {
@@ -22,7 +22,7 @@ export const roadmapData: Roadmap = {
           title: "CSS",
           description: "Cascading Style Sheets",
           resources: [
-            "https://developer.mozilla.org/en-US/docs/Web/CSS"
+            "https://pornhub.com"
           ]
         }
       ]
