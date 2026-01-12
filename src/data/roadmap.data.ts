@@ -14,7 +14,7 @@ export const roadmapData: Roadmap = {
           title: "HTML",
           description: "Hyper Text Markup Language",
           resources: [
-            "qbc.com"
+            "https://youtu.be/EKlHAxQgFS8?si=ABMTBVEgbDdxHzTA"
           ]
         },
         {
@@ -22,7 +22,7 @@ export const roadmapData: Roadmap = {
           title: "CSS",
           description: "Cascading Style Sheets",
           resources: [
-            "abc.com"
+            "https://youtu.be/EKlHAxQgFS8?si=ABMTBVEgbDdxHzTA"
           ]
         },
         {
@@ -30,7 +30,7 @@ export const roadmapData: Roadmap = {
           title: "CSS",
           description: "Cascading Style Sheets",
           resources: [
-            "abc.com"
+            "https://youtu.be/EKlHAxQgFS8?si=ABMTBVEgbDdxHzTA"
           ]
         }
       ]
