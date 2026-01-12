@@ -14,7 +14,7 @@ export const roadmapData: Roadmap = {
           title: "HTML",
           description: "Hyper Text Markup Language",
           resources: [
-            "https://pornhub.com"
+            "qbc.com"
           ]
         },
         {
