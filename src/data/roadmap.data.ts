@@ -22,7 +22,15 @@ export const roadmapData: Roadmap = {
           title: "CSS",
           description: "Cascading Style Sheets",
           resources: [
-            "https://pornhub.com"
+            "abc.com"
+          ]
+        },
+        {
+          id: "css",
+          title: "CSS",
+          description: "Cascading Style Sheets",
+          resources: [
+            "abc.com"
           ]
         }
       ]
