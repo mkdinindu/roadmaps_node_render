@@ -19,6 +19,7 @@
         :node="child"
       />
     </div>
+    <p>Ranuki badaaa</p>
   </div>
 </template>
 
